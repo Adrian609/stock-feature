@@ -5,7 +5,5 @@ Link to REPL for demo
 https://repl.it/@Adrian609/AwesomeCloudySpreadsheets
 
 <figure class="video_container">
- 
-<iframe src="https://repl.it/@Adrian609/AwesomeCloudySpreadsheets?lite=true" frameborder="0" allowfullscreen="true">
-</iframe>
+ <iframe src="https://repl.it/@Adrian609/AwesomeCloudySpreadsheets?lite=true" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
